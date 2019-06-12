@@ -1,0 +1,5 @@
+Thid directory contains the source code to the solutions to the bounded
+buffer and reader writer problem using Java synchronization. It also
+contains a directory for the complete source code for the DoWork()
+method. This method is used to distinguish between the notify() and
+notifyAll() statements.
